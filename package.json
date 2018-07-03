@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vithalreddy/nodeJS-socketIO-chat.git"
-  },
   "keywords": [
     "nodejs",
     "expressjs",
@@ -18,12 +14,9 @@
     "real-time",
     "chat-app"
   ],
-  "author": "VithalReddy",
+  "author": "Mohamed Altaweel",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vithalreddy/nodeJS-socketIO-chat/issues"
-  },
-  "homepage": "https://github.com/vithalreddy/nodeJS-socketIO-chat#readme",
+  
   "dependencies": {
     "body-parser": "^1.17.2",
     "connect-mongo": "^1.3.2",
